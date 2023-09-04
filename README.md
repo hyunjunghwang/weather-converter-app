@@ -1,3 +1,7 @@
+# About
+This is a weather-temperature converter project that you can search for a city and the current weather of BOTH Celsius and Fahrenheit will appear along with the date and time. 
+
+____________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
